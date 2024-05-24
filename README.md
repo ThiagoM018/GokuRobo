@@ -1,3 +1,3 @@
 # GokuRobo
-Robo Feto em Java Em Funçao de Projeto da Faculdade
+Robo Feito em Java para Projeto da Faculdade
 
